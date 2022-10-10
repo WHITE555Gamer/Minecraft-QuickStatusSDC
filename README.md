@@ -1,2 +1,2 @@
 # Minecraft-QuickStatusSDC
-Quick Status Share and Development Commands.
+This plugin is for a Quick Status Share and Development Commands.
